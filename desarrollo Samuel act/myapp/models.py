@@ -8,3 +8,5 @@ class Profile (models.Model):
     status = models.BooleanField(default=True)
 
 # comentario a subir
+
+# uno
